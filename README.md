@@ -1,2 +1,2 @@
-# deployment-infrastructure
-A presentation covering deployment infrastructure options.
+# what-the-fuck-do-i-do
+A presentation on what I actually do for work.
