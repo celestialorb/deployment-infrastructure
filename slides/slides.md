@@ -144,8 +144,8 @@ It relies on the following directory structure for a project:
 project-root/
 └── terraform/            # Terraform Definitions
     ├── environments/     # Static Environment Definitions
-    |   ├── development/  # Development Static Environment (EXAMPLE)
-    |   └── production/   # Production Static Environment (EXAMPLE)
+    │   ├── development/  # Development Static Environment (EXAMPLE)
+    │   └── production/   # Production Static Environment (EXAMPLE)
     └── modules/          # Terraform Module Definitions
         └── service/      # Service infrastructure definition (EXAMPLE)
 ```
