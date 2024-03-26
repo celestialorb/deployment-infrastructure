@@ -1,7 +1,7 @@
 ---
 theme: purplin
 title: Automated Deployments
-info: TODO
+info: An overview of automated deployments and infrastructure solutions.
 class: text-center
 highlighter: shiki
 drawings:
@@ -133,7 +133,7 @@ layout: full
 ---
 
 ## Automated Deployments with Terraform
-### TODO
+### GitLab Solution
 
 A [Terramate CI](https://192.168.7.51:30000/infrastructure/terramate-ci) project
 has been created, which can be imported into other projects.
